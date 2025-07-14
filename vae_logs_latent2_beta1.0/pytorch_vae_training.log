@@ -1,0 +1,44 @@
+2025-07-14 09:20:28,117 - INFO - PyTorch VAE Logger initialized - Device: mps
+2025-07-14 09:20:33,858 - INFO - Epoch   1 | Total Loss: 188.3552 | Recon: 184.4511 | KL: 3.9041 | Val Loss: 164.1514 | Time: 5.43s
+2025-07-14 09:20:37,848 - INFO - Epoch   2 | Total Loss: 166.2892 | Recon: 161.4309 | KL: 4.8583 | Val Loss: 158.2647 | Time: 3.67s
+2025-07-14 09:20:41,977 - INFO - Epoch   3 | Total Loss: 163.2596 | Recon: 158.1717 | KL: 5.0879 | Val Loss: 156.5518 | Time: 3.84s
+2025-07-14 09:20:46,005 - INFO - Epoch   4 | Total Loss: 162.0264 | Recon: 156.8154 | KL: 5.2110 | Val Loss: 154.8731 | Time: 3.73s
+2025-07-14 09:20:49,970 - INFO - Epoch   5 | Total Loss: 160.9149 | Recon: 155.6240 | KL: 5.2909 | Val Loss: 153.7889 | Time: 3.67s
+2025-07-14 09:20:53,940 - INFO - Epoch   6 | Total Loss: 160.2166 | Recon: 154.8810 | KL: 5.3356 | Val Loss: 153.2334 | Time: 3.68s
+2025-07-14 09:20:58,032 - INFO - Epoch   7 | Total Loss: 159.5602 | Recon: 154.1608 | KL: 5.3994 | Val Loss: 152.9650 | Time: 3.80s
+2025-07-14 09:21:02,005 - INFO - Epoch   8 | Total Loss: 159.0484 | Recon: 153.6075 | KL: 5.4409 | Val Loss: 152.1594 | Time: 3.68s
+2025-07-14 09:21:05,990 - INFO - Epoch   9 | Total Loss: 158.7079 | Recon: 153.2501 | KL: 5.4578 | Val Loss: 151.6601 | Time: 3.70s
+2025-07-14 09:21:10,002 - INFO - Epoch  10 | Total Loss: 158.2190 | Recon: 152.7258 | KL: 5.4931 | Val Loss: 151.2626 | Time: 3.72s
+2025-07-14 09:21:14,025 - INFO - Epoch  11 | Total Loss: 157.9164 | Recon: 152.4047 | KL: 5.5116 | Val Loss: 150.9700 | Time: 3.72s
+2025-07-14 09:21:18,032 - INFO - Epoch  12 | Total Loss: 157.4736 | Recon: 151.9246 | KL: 5.5490 | Val Loss: 150.4663 | Time: 3.72s
+2025-07-14 09:21:22,097 - INFO - Epoch  13 | Total Loss: 157.2043 | Recon: 151.6333 | KL: 5.5711 | Val Loss: 150.0154 | Time: 3.75s
+2025-07-14 09:21:26,156 - INFO - Epoch  14 | Total Loss: 156.9955 | Recon: 151.4061 | KL: 5.5894 | Val Loss: 149.9174 | Time: 3.77s
+2025-07-14 09:21:30,548 - INFO - Epoch  15 | Total Loss: 156.6990 | Recon: 151.0585 | KL: 5.6405 | Val Loss: 150.2038 | Time: 4.05s
+2025-07-14 09:21:35,110 - INFO - Epoch  16 | Total Loss: 156.4200 | Recon: 150.7703 | KL: 5.6497 | Val Loss: 149.6098 | Time: 4.28s
+2025-07-14 09:21:39,387 - INFO - Epoch  17 | Total Loss: 156.3926 | Recon: 150.7293 | KL: 5.6632 | Val Loss: 149.5000 | Time: 3.98s
+2025-07-14 09:21:43,344 - INFO - Epoch  18 | Total Loss: 156.1792 | Recon: 150.5035 | KL: 5.6757 | Val Loss: 148.9831 | Time: 3.67s
+2025-07-14 09:21:47,338 - INFO - Epoch  19 | Total Loss: 155.9202 | Recon: 150.2393 | KL: 5.6809 | Val Loss: 149.0982 | Time: 3.70s
+2025-07-14 09:21:51,308 - INFO - Epoch  20 | Total Loss: 155.7000 | Recon: 150.0054 | KL: 5.6946 | Val Loss: 148.6912 | Time: 3.69s
+2025-07-14 09:22:14,046 - ERROR - No such comm target registered: jupyter.widget.control
+2025-07-14 09:22:14,048 - WARNING - No such comm: 7b9713dd-3a94-42c7-9ed2-811713e7436f
+2025-07-14 09:22:23,562 - INFO - PyTorch VAE Logger initialized - Device: mps
+2025-07-14 09:22:27,619 - INFO - Epoch   1 | Total Loss: 188.3552 | Recon: 184.4511 | KL: 3.9041 | Val Loss: 164.1514 | Time: 3.77s
+2025-07-14 09:22:31,661 - INFO - Epoch   2 | Total Loss: 166.2892 | Recon: 161.4309 | KL: 4.8583 | Val Loss: 158.2647 | Time: 3.75s
+2025-07-14 09:22:35,755 - INFO - Epoch   3 | Total Loss: 163.2596 | Recon: 158.1717 | KL: 5.0879 | Val Loss: 156.5518 | Time: 3.80s
+2025-07-14 09:22:39,954 - INFO - Epoch   4 | Total Loss: 162.0264 | Recon: 156.8154 | KL: 5.2110 | Val Loss: 154.8731 | Time: 3.90s
+2025-07-14 09:22:44,328 - INFO - Epoch   5 | Total Loss: 160.9149 | Recon: 155.6240 | KL: 5.2909 | Val Loss: 153.7889 | Time: 4.04s
+2025-07-14 09:22:49,933 - INFO - Epoch   6 | Total Loss: 160.2166 | Recon: 154.8810 | KL: 5.3356 | Val Loss: 153.2334 | Time: 5.18s
+2025-07-14 09:22:55,510 - INFO - Epoch   7 | Total Loss: 159.5602 | Recon: 154.1608 | KL: 5.3994 | Val Loss: 152.9650 | Time: 5.11s
+2025-07-14 09:23:01,493 - INFO - Epoch   8 | Total Loss: 159.0484 | Recon: 153.6075 | KL: 5.4409 | Val Loss: 152.1594 | Time: 5.51s
+2025-07-14 09:23:07,288 - INFO - Epoch   9 | Total Loss: 158.7079 | Recon: 153.2501 | KL: 5.4578 | Val Loss: 151.6601 | Time: 5.35s
+2025-07-14 09:23:13,055 - INFO - Epoch  10 | Total Loss: 158.2190 | Recon: 152.7258 | KL: 5.4931 | Val Loss: 151.2626 | Time: 5.37s
+2025-07-14 09:23:18,909 - INFO - Epoch  11 | Total Loss: 157.9164 | Recon: 152.4047 | KL: 5.5116 | Val Loss: 150.9700 | Time: 5.37s
+2025-07-14 09:23:24,246 - INFO - Epoch  12 | Total Loss: 157.4736 | Recon: 151.9246 | KL: 5.5490 | Val Loss: 150.4663 | Time: 5.01s
+2025-07-14 09:23:28,706 - INFO - Epoch  13 | Total Loss: 157.2043 | Recon: 151.6333 | KL: 5.5711 | Val Loss: 150.0154 | Time: 4.16s
+2025-07-14 09:23:32,893 - INFO - Epoch  14 | Total Loss: 156.9955 | Recon: 151.4061 | KL: 5.5894 | Val Loss: 149.9174 | Time: 3.84s
+2025-07-14 09:23:37,613 - INFO - Epoch  15 | Total Loss: 156.6990 | Recon: 151.0585 | KL: 5.6405 | Val Loss: 150.2038 | Time: 4.35s
+2025-07-14 09:23:42,356 - INFO - Epoch  16 | Total Loss: 156.4200 | Recon: 150.7703 | KL: 5.6497 | Val Loss: 149.6098 | Time: 4.43s
+2025-07-14 09:23:46,511 - INFO - Epoch  17 | Total Loss: 156.3926 | Recon: 150.7293 | KL: 5.6632 | Val Loss: 149.5000 | Time: 3.86s
+2025-07-14 09:23:50,521 - INFO - Epoch  18 | Total Loss: 156.1792 | Recon: 150.5035 | KL: 5.6757 | Val Loss: 148.9831 | Time: 3.71s
+2025-07-14 09:23:54,803 - INFO - Epoch  19 | Total Loss: 155.9202 | Recon: 150.2393 | KL: 5.6809 | Val Loss: 149.0982 | Time: 3.94s
+2025-07-14 09:23:59,161 - INFO - Epoch  20 | Total Loss: 155.7000 | Recon: 150.0054 | KL: 5.6946 | Val Loss: 148.6912 | Time: 4.05s
